@@ -4,7 +4,6 @@ namespace HelloWorld
 {
   class Program
   {
-    
     static void Main(string[] args)
     {
       Console.WriteLine("Podaj liczbe x: ");
@@ -21,7 +20,6 @@ namespace HelloWorld
       else {
         Console.WriteLine("Nie wszystkie liczby sa parzyste!");
       }
-
     }
   }
 }
