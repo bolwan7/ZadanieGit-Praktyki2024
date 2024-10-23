@@ -11,8 +11,6 @@ namespace HelloWorld
       Console.WriteLine("Podaj swoje imie: ");
       string Name = Console.ReadLine();
       Console.WriteLine("Witaj " + Name + "!");
-
-        
     }
   }
 }
